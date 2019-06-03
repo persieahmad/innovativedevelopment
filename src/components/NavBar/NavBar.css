@@ -1,0 +1,10 @@
+.img {
+    width: 2em;
+    height: 2em;
+}
+.nav {
+    background-image: -webkit-linear-gradient(45deg, blue, black);
+}
+a {
+    text-decoration: none !important;
+}

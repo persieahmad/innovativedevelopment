@@ -1,0 +1,20 @@
+.c {
+    color: blue;
+}
+
+.webimg2 {
+    width: 7em;
+    height: 7em;
+    padding: 1.5em;
+    transition-duration: 0.4s;
+}
+.webimg2:hover {
+    transform: scale(2);
+}
+
+.footer {
+    background-image: -webkit-linear-gradient(45deg, blue, black);
+    color: white;
+    height: 2.5em;
+    font-size: 80%;
+}

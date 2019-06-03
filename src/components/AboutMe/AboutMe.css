@@ -1,0 +1,20 @@
+.mypic {
+    width: 20em;
+    height: 20em;
+    display: block;
+    margin: 0 auto;
+    padding: 1em;
+    background-image: linear-gradient(110deg, #3399ff, #ff1aff);
+}
+
+.picdiv {
+    padding: 1em;
+}
+
+.id {
+    color: blue;
+}
+
+.picdiv > h1,h4 {
+    text-align: center;
+}
