@@ -17,7 +17,7 @@ class AboutMe extends React.Component {
             </Zoom>
             <Fade right>
              <h1>Ahmad Sadiq</h1>
-             <h4>Founder of <span className="id">Innovative Development</span></h4>
+             <h4>Founder of <span className="id">Innovative Development.</span></h4>
             </Fade>
             <Fade bottom>
             <Toggle />
